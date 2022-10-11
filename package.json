@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "16.5.0",
-    "react-native": "0.57.0",
+    "react-native": "0.70.2",
     "react-native-elements": "^0.19.1",
     "react-native-modal-datetime-picker": "^6.0.0",
     "react-native-vector-icons": "^5.0.0",
